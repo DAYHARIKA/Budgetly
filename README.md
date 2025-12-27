@@ -1,4 +1,5 @@
 💰 Budgetly — Smart Expense Tracking Application
+
 📌 Overview
 
 Budgetly is a smart personal finance application that helps users track expenses, manage budgets, and gain meaningful insights into their spending habits. The platform focuses on financial awareness by categorizing expenses and providing visual analytics.
